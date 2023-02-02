@@ -1,0 +1,7 @@
+{
+  "name": "POIDH",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
