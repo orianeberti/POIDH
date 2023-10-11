@@ -1,0 +1,24 @@
+
+  
+  .myOverlay{
+      position: absolute;
+      z-index: 99;
+      bottom: 2%;
+      opacity: 1;
+      background: #f30101;
+      color: #fff;
+      border-radius: 25px;
+      margin-bottom: 0.5em;
+      margin-left: 0.5em;
+      padding-left: 5px;
+      padding-right: 5px;
+  }
+
+  .no-padding {
+    padding: 0px !important;
+}
+
+ion-item{
+  --inner-padding-end: 0px;
+  --padding-start:0px
+}
